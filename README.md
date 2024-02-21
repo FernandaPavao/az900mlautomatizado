@@ -1,2 +1,3 @@
 # az900mlautomatizado
-## No microsoft Azure foi criado um novo recurso
+## Configuração do Microsoft azure e Azure studio
+dhfhhf
